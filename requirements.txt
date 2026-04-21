@@ -1,0 +1,8 @@
+streamlit
+google-genai
+pandas
+requests
+plotly
+matplotlib
+seaborn
+numpy
